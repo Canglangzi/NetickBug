@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a29f67b488b4458983fd973bbda8c8fa, type: 3}
+  m_Name: CocKleBursDevelopmentKit.Examples
+  m_EditorClassIdentifier: 
+  packageSourcePaths:
+  - Assets/CocKleBursDevelopmentKit/CocKleBurs.GameFrameWork.Examples
+  - Assets/EditorThemes
+  packageIgnorePaths: []
+  packageDestinationPath: CocKleBursDevelopmentKit/Package
+  legacyPackageDestinationPath: 
+  packageName: com.cockleburs.gameframework.examples
+  displayName: CocKleBursDevelopmentKit.Examples
+  packageVersion: 0.0.1
+  unityVersion: 2021.3
+  description: 
+  category: 
+  author:
+    name: "\U0001F352"
+    email: 2169429327@qq.com
+    url: 
+  keywords:
+  - package
+  dependencies: []
+  versionConstantsPath: 
+  versionConstantsNamespace: 
+  _id: bc4ebe5e-9979-4ba0-a03b-ed508b658f56

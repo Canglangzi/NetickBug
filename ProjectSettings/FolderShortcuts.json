@@ -1,0 +1,12 @@
+{
+    "shortcuts": [
+        {
+            "folderName": "Sortify",
+            "folderPath": "Assets/Sortify"
+        },
+        {
+            "folderName": "GameFrameWork",
+            "folderPath": "Packages/com.cockleburs.gameframework/Package/CocKleBurs.GameFrameWork/CocKleBurs.GameFrameWork.Editor/GameFrameWork"
+        }
+    ]
+}

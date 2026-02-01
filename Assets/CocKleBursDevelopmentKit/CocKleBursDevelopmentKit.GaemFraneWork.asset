@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a29f67b488b4458983fd973bbda8c8fa, type: 3}
+  m_Name: CocKleBursDevelopmentKit.GaemFraneWork
+  m_EditorClassIdentifier: 
+  packageSourcePaths:
+  - Assets/CocKleBursDevelopmentKit/CocKleBursDevelopmentKit
+  packageIgnorePaths: []
+  packageDestinationPath: GameFrmeWork.Packages
+  legacyPackageDestinationPath: GameFrmeWork.Packages
+  packageName: com.cockleburs.gameframework
+  displayName: CocKleBurs.GameFrameWork
+  packageVersion: 0.1.4
+  unityVersion: 2021.3
+  description: 
+  category: 
+  author:
+    name: "\U0001F352"
+    email: 2169429327@qq.com
+    url: 
+  keywords:
+  - package
+  dependencies:
+  - packageName: com.unity.editorcoroutines
+    packageVersion: 1.0.0
+  - packageName: com.unity.addressables
+    packageVersion: 2.4.3
+  - packageName: com.unity.timeline
+    packageVersion: 1.8.8
+  - packageName: com.unity.probuilder
+    packageVersion: 6.0.5
+  - packageName: com.unity.jobs
+    packageVersion: 0.70.0-preview.7
+  - packageName: com.unity.cinemachine
+    packageVersion: 3.1.3
+  - packageName: com.unity.inputsystem
+    packageVersion: 1.14.0
+  - packageName: com.unity.animation.rigging
+    packageVersion: 1.3.0
+  - packageName: com.unity.multiplayer.playmode
+    packageVersion: 1.4.2
+  - packageName: com.unity.burst
+    packageVersion: 1.8.21
+  - packageName: com.unity.nuget.newtonsoft-json
+    packageVersion: 3.2.1
+  - packageName: com.unity.ai.navigation
+    packageVersion: 2.0.7
+  - packageName: com.unity.localization
+    packageVersion: 1.5.5
+  - packageName: com.unity.ai.navigation
+    packageVersion: 2.0.8
+  - packageName: com.unity.services.multiplay
+    packageVersion: 1.2.5
+  - packageName: com.unity.2d.sprite
+    packageVersion: 1.0.0
+  - packageName: com.unity.timeline
+    packageVersion: 1.8.8
+  - packageName: com.unity.ide.rider
+    packageVersion: 3.0.36
+  versionConstantsPath: 
+  versionConstantsNamespace: 
+  _id: bc4ebe5e-9979-4ba0-a03b-ed508b658f56

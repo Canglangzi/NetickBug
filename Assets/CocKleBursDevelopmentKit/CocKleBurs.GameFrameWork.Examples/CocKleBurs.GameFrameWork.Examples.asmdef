@@ -1,0 +1,24 @@
+{
+    "name": "CocKleBurs.GameFrameWork.Examples",
+    "rootNamespace": "CocKleBurs.GameFrameWork.Examples",
+    "references": [
+        "CocKleBurs.GameFrameWork",
+        "TextToTMP.Runtime",
+        "Unity.TextMeshPro",
+        "com.max05643.discord-sdk.Runtime",
+        "Unity.InputSystem"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Sirenix.OdinInspector.Attributes.dll",
+        "Netick.dll",
+        "Netick.Unity.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
