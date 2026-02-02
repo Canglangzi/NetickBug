@@ -39,13 +39,6 @@
       },
       "hash": "07aa364b108fb1c413e029ea9eb7a85dfaf0929a"
     },
-    "com.kyrylokuzyk.primetween": {
-      "version": "https://github.com/Canglangzi/PrimeTween.git",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {},
-      "hash": "8d80830a405e284b83254a960dae0a834712543c"
-    },
     "com.unity.2d.animation": {
       "version": "12.0.2",
       "depth": 1,
@@ -209,23 +202,6 @@
       },
       "url": "https://packages.unity.com"
     },
-    "com.unity.behavior": {
-      "version": "https://github.com/Canglangzi/com.unity.behavior.git",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {
-        "com.unity.dt.app-ui": "2.0.0-pre.16",
-        "com.unity.modules.unitywebrequest": "1.0.0",
-        "com.unity.modules.animation": "1.0.0",
-        "com.unity.modules.ai": "1.0.0",
-        "com.unity.modules.audio": "1.0.0",
-        "com.unity.modules.particlesystem": "1.0.0",
-        "com.unity.nuget.newtonsoft-json": "3.2.1",
-        "com.unity.burst": "1.7.2",
-        "com.unity.collections": "2.1.4"
-      },
-      "hash": "55f3931d6ea3f3becdf4cfdeac514c65031ba023"
-    },
     "com.unity.burst": {
       "version": "1.8.28",
       "depth": 0,
@@ -271,18 +247,6 @@
       "depth": 0,
       "source": "registry",
       "dependencies": {},
-      "url": "https://packages.unity.com"
-    },
-    "com.unity.dt.app-ui": {
-      "version": "2.0.0-pre.16",
-      "depth": 1,
-      "source": "registry",
-      "dependencies": {
-        "com.unity.modules.physics": "1.0.0",
-        "com.unity.modules.androidjni": "1.0.0",
-        "com.unity.modules.uielements": "1.0.0",
-        "com.unity.modules.screencapture": "1.0.0"
-      },
       "url": "https://packages.unity.com"
     },
     "com.unity.editorcoroutines": {
