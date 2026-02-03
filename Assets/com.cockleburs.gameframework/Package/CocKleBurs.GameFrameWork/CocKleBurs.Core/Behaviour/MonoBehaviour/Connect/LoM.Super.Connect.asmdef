@@ -1,0 +1,16 @@
+{
+    "name": "LoM.Super.Connect",
+    "rootNamespace": "LoM.Super.Connect",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "COCKLEBURS_GAMEFRAMEWORK"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

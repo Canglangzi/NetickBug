@@ -1,0 +1,20 @@
+{
+    "name": "LoM.Super.Connect.Editor",
+    "rootNamespace": "LoM.Super.Connect.Editor",
+    "references": [
+        "LoM.Super.Connect"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "COCKLEBURS_GAMEFRAMEWORK"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

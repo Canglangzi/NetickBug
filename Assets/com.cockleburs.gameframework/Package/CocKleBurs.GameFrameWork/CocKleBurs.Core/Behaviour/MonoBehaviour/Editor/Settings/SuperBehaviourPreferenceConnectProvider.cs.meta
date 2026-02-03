@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 8f81628e22d596143bad728dc68d3014
+AssetOrigin:
+  serializedVersion: 1
+  productId: 258290
+  packageName: Super Behaviour
+  packageVersion: 0.1.3
+  assetPath: Assets/FPS/Code/CocKleBurs.GameFrameWork/CocKleBurs.Core/MonoBehaviour/Editor/Settings/SuperBehaviourPreferenceConnectProvider.cs
+  uploadId: 758764
